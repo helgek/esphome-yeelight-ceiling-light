@@ -627,7 +627,7 @@ To solder some wires to the TPs you need a bit of experience. Since other compon
 ### YLXDD-0033
 To disasemble the unit, use a prying tool to un-clip the top part. There are no screws nor glue, only clips all around the ceiling light.
 
-When flashing the YLXDD-00xx series you'll need an external 3.3V power supply and pull the enable (EN) pin to 3.3V.
+When flashing the YLXDD-00xx series you'll need an external 3.3V power supply to power the ESP32 and in addition pull the enable (EN) pin to 3.3V.
 
 <a href="https://raw.githubusercontent.com/syssi/esphome-yeelight-ceiling-light/main/images/ylxdd0033/001.webp" target="_blank">
 <img src="https://raw.githubusercontent.com/syssi/esphome-yeelight-ceiling-light/main/images/ylxdd0033/thumbnails/001.webp" width="18%">
